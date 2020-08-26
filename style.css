@@ -1,0 +1,265 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.upwork{
+	width: cover;
+	height: 32px;
+	background-color: blue;
+}
+.upwork .manu {
+	width: cover;
+	height:150px;
+	margin-left: 290px;
+}
+.upwork .manu ul li a{
+	text-decoration: none;
+	color: black;
+	padding:15px 42px;
+}
+.upwork .manu ul li{
+	list-style: none;
+	float: left;
+	
+	background-color: blue;
+
+}
+.upwork .manu ul li:first-child{
+	background-color: red;
+	height: 32px;
+}
+.upwork .manu ul li a:hover{
+    background: red;
+    background-color: 2px;
+}
+.background{
+	background-image: url(picuse.jpg);
+	height: 500px;
+	background-repeat: no-repeat;	
+}
+.background h1{
+	color: red;
+	text-align: center;
+	padding-top: 150px;
+	text-shadow: 5px;
+}
+.background p{
+	color: red;
+	text-align: center;
+	color: white;
+	padding-top: 10px;
+	font-size: 20px;
+}
+.background a{
+	text-decoration: none;
+	padding: 10px 15px;
+	background-color: yellow;
+	margin-left: 1000px;
+	border-radius: 8px;
+}
+.background a :hover{
+	background-color: red;
+}
+.twopart{
+	background-color: #d1b6b4;
+	height: 400px;
+	background-attachment: fixed;
+}
+.twopart .row-1{
+	background-color: white;
+	height: 250px;
+	width: 200px;
+	margin-left: 50px;
+	margin-top: 50px;
+	border-radius: 8px;
+	 box-shadow: 5px 10px #888888;
+	 float: left;
+}
+.twopart .row-1 img{
+	height: 100px;
+	width: 100px;
+	margin-top: 20px;
+	margin-left: 30px;
+}
+.twopart .row-1 h1{
+	text-align: center;
+	color: blue;
+	font-size: 20px;
+	margin-top: 10px;
+}
+.twopart .row-1 p{
+	text-align: center;
+	margin-top: 10px;
+}
+.twopart .row-2{
+	background-color: white;
+	height: 250px;
+	width: 200px;
+	margin-left: 50px;
+	margin-top: 50px;
+	border-radius: 8px;
+	 box-shadow: 5px 10px #888888;
+	 float: left;
+}
+.twopart .row-2 img{
+	height: 100px;
+	width: 100px;
+	margin-top: 20px;
+	margin-left: 50px;
+}
+.twopart .row-2 h1{
+	text-align: center;
+	color: blue;
+	font-size: 20px;
+	margin-top: 10px;
+}
+.twopart .row-2 p{
+	text-align: center;
+	margin-top: 10px;
+	margin-left: 10px;
+}
+.twopart .row-3{
+	background-color: white;
+	height: 250px;
+	width: 200px;
+	margin-left: 50px;
+	margin-top: 50px;
+	border-radius: 8px;
+	 box-shadow: 5px 10px #888888;
+	 float: left;
+}
+.twopart .row-3 img{
+	height: 100px;
+	width: 100px;
+	margin-top: 20px;
+	margin-left: 50px;
+}
+.twopart .row-3 h1{
+	text-align: center;
+	color: blue;
+	font-size: 20px;
+	margin-top: 10px;
+}
+.twopart .row-3 p{
+	text-align: center;
+	margin-top: 10px;
+	margin-left: 10px;
+}
+.twopart .row-4{
+	background-color: white;
+	height: 250px;
+	width: 200px;
+	margin-left: 50px;
+	margin-top: 50px;
+	border-radius: 8px;
+	 box-shadow: 5px 10px #888888;
+	 float: left;
+}
+.twopart .row-4 img{
+	height: 100px;
+	width: 100px;
+	margin-top: 20px;
+	margin-left: 50px;
+}
+.twopart .row-4 h1{
+	text-align: center;
+	color: blue;
+	font-size: 20px;
+	margin-top: 10px;
+}
+.twopart .row-4 p{
+	text-align: center;
+	margin-top: 10px;
+	margin-left: 10px;
+}
+.twopart .row-5{
+	background-color: white;
+	height: 250px;
+	width: 200px;
+	margin-left: 50px;
+	margin-top: 50px;
+	border-radius: 8px;
+	 box-shadow: 5px 10px #888888;
+	 float: left;
+}
+.twopart .row-5 img{
+	height: 100px;
+	width: 100px;
+	margin-top: 20px;
+	margin-left: 50px;
+}
+.twopart .row-5 h1{
+	text-align: center;
+	color: blue;
+	font-size: 20px;
+	margin-top: 10px;
+}
+.twopart .row-5 p{
+	text-align: center;
+	margin-top: 10px;
+	margin-left: 10px;
+}
+.threepart{
+	background-color: #52373e;
+	height: 400px;
+}
+.threepart .hedder h1{
+	color: #8c8fba;
+	margin-left: 30px;
+	padding-top: 20px;
+	
+}
+.threepart .hedder a{
+	padding: 10px 10px;
+	background-color: orange;
+	color: red;
+	margin-left: 1000px;
+	text-decoration: none;
+	
+	margin-bottom: 50px;
+	
+}
+.threepart .row-6{
+	float: left;
+	
+}
+.threepart .row-6 img{
+	height: 200px;
+	width: 200px;
+	margin-left: 100px;
+	margin-top: 20px;
+	
+}
+.threepart .row-6 h1{
+	margin-left: 100px;
+	color: gray;
+}
+.threepart .row-7{
+	float: left;
+	
+}
+.threepart .row-7 img{
+	height: 200px;
+	width: 200px;
+	margin-left: 200px;
+	margin-top: 20px;
+	
+}
+.threepart .row-7 h1{
+	margin-left: 200px;
+	color: gray;
+}.threepart .row-8{
+	float: left;
+	
+}
+.threepart .row-8 img{
+	height: 200px;
+	width: 200px;
+	margin-left: 200px;
+	margin-top: 20px;
+	
+}
+.threepart .row-8 h1{
+	margin-left: 200px;
+	color: gray;
+}
